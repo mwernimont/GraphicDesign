@@ -9,13 +9,17 @@
 	.st3{fill:#FED215;}
 	.st4{fill:#954621;}
 	.st5{fill:#53230E;}
-	.st6{fill:#FBAF32;}
+	.st6{fill:#577891;}
 	.st7{fill:#FFFFFF;}
-	.st8{fill:#FFD630;}
+	.st8{fill:#77A2C3;}
 	.st9{fill:#D1D3D4;}
 	.st10{fill:#E6E7E8;}
 	.st11{fill:#F1F2F2;}
 	.st12{fill:#BCBEC0;}
+	.st13{fill:none;stroke:#414042;stroke-width:5;stroke-miterlimit:10;}
+	.st14{fill:#414042;}
+	.st15{fill:#F4C044;}
+	.st16{fill:#9FC764;}
 </style>
 <g>
 	<path class="st6" d="M135.9,16.2l-55.7,0.2c-2.8,0-5.5-1-7.6-2.8L61.1,3.5C58.5,1.2,55.2,0,51.8,0H10.5C4.9,0,0.3,4.6,0.3,10.3
